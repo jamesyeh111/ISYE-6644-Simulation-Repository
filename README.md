@@ -1,7 +1,7 @@
 ##ISYE-6644 Simulation 2020 Spring
 
 
-
+[Syllabus](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/OMSA_ISYE6644SyllabusSpring2020-191203v2.pdf)
 
 
 
