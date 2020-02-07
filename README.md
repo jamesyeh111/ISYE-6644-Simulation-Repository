@@ -3,8 +3,8 @@
 
 [Syllabus](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/OMSA_ISYE6644SyllabusSpring2020-191203v2.pdf)
 
+[week 1-2 Math Bootcamp](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/ISYE%206644%20note%20week%202_compressed.pdf)
 [week 3 Hand Simulation Note](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/ISYE%206644%20Hand%20Simulation%20Note.pdf)
-
 
 
 
