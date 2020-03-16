@@ -11,7 +11,7 @@
 
 [Week 6 Intro to Arena](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/Week%206%20Arena%20Simulation.pdf)
 
-[Week 7 Intro to Arena (Cont'd)(https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/ISYE6644_Week7_Note.pdf)
+[Week 7 Intro to Arena,Cont'd](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/ISYE6644_Week7_Note.pdf)
 
 [Week 8 Random Number Generator](https://github.com/jamesyeh111/ISYE-6644-Simulation-Repository/blob/master/ISYE%206644%20Week%208.pdf)
 
